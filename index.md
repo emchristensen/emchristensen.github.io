@@ -5,14 +5,7 @@ description: Erica Christensen is a PhD student in Wildlife Ecology at the Unive
 keywords: ecology, desert rodents, community ecology, timeseries analysis
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="https://github.com/emchristensen">GitHub</a></li>
-          <li><a href="https://twitter.com/emchriste">Twitter</a></li>
-      </ul>
-  </div>
-</div>
+
 
 <table class="wide">
 <tr>
@@ -23,3 +16,12 @@ keywords: ecology, desert rodents, community ecology, timeseries analysis
   </td>
 </tr>
 </table>
+
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="https://github.com/emchristensen">GitHub</a></li>
+          <li><a href="https://twitter.com/emchriste">Twitter</a></li>
+      </ul>
+  </div>
+</div>
