@@ -5,9 +5,8 @@ description: Erica Christensen's research interests and projects
 ---
 
 
-<img src="assets/photos/P4010190.JPG"
-     alt="mountains"
-     style="float: left; margin-right: 10px;" />
+![mountains](/assets/photos/P4010190.JPG)
+Format: ![Alt Text](url)
 
 
 ### Community change
