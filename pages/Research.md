@@ -5,15 +5,10 @@ description: Erica Christensen's research interests and projects
 ---
 
 
-<table class="wide">
-<tr>
-  <td class="center">
-    <a href="assets/photos/P4010190.JPG">
-        <img src="assets/photos/P4010190.JPG"/>
-    </a>
-  </td>
-</tr>
-</table>
+<img src="assets/photos/P4010190.JPG"
+     alt="mountains"
+     style="float: left; margin-right: 10px;" />
+
 
 ### Community change
 
