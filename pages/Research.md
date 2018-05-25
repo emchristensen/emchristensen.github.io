@@ -6,7 +6,6 @@ description: Erica Christensen's research interests and projects
 
 
 ![mountains](/assets/photos/P4010190.JPG)
-Format: ![Alt Text](url)
 
 
 ### Community change
