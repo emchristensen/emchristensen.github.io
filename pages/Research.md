@@ -4,6 +4,17 @@ title: Research
 description: Erica Christensen's research interests and projects
 ---
 
+
+<table class="wide">
+<tr>
+  <td class="center">
+    <a href="assets/photos/P4010190.JPG">
+        <img src="assets/photos/P4010190.JPG"/>
+    </a>
+  </td>
+</tr>
+</table>
+
 ### Community change
 
 My PhD work has centered around questions about how ecological communities change through time. I used data (data which I also helped collect) from the [Portal Project](http://www.weecology.org/project/portal/), a study site in southeast Arizona that began in 1977 and is still ongoing. At Portal we conduct small mammal (rodent) surveys monthly, plant surveys biannually, and collect climate data continuously through an automated weather station.  
