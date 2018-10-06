@@ -1,0 +1,21 @@
+---
+layout: page
+title: Research
+description: Erica Christensen's research interests and projects
+---
+
+### Community change
+
+My PhD work has centered around questions about how ecological communities change through time. I used data (data which I also helped collect) from the [Portal Project](http://www.weecology.org/project/portal/), a study site in southeast Arizona that began in 1977 and is still ongoing. At Portal we conduct small mammal (rodent) surveys monthly, plant surveys biannually, and collect climate data continuously through an automated weather station.  
+
+**40 years of a desert rodent community**
+In this project, I asked what patterns could be found in 40 years of rodent data. Specifically, I wanted to know if the prevailing overall pattern suggested slow, gradual change (which we might expect given that there was a slow, gradual change in habitat structure over those 40 years), or if change in the rodent community tended to happen in short bursts. 
+
+**Plants, ants, and rodents**
+In this project, I compare rodent community dynamics to dynamics from two other communities at the same site: annual plants and seed-eating ants. These three communities are connected not only in that they experience the same abiotic events (e.g. episodic rainfall, temperature extremes), but they also interact with each other: both the rodents and the ants depend on annual plant seeds for food. 
+
+### Other stuff
+
+**Sea Turtles: The Leatherback Trust**
+For the 2011-2012 nesting season, I 
+
